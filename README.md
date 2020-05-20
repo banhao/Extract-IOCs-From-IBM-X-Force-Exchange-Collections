@@ -1,4 +1,5 @@
 Extract_IOCs_From_IBM_XForce_Exchange_Collections.py is used to grab the IOCs from IBM X-Force Exchange Collections.
+You don't need IBM X-Force API and the script will auto skip the login screen.
 
 How to use it:
 If you want to get all the IOCs from one IBM X-Force Exchange Collection web page, so just run the command like following:
