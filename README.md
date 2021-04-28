@@ -1,3 +1,6 @@
+# Extract IOCs From IBM X-Force Exchange Collections
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 Extract_IOCs_From_IBM_XForce_Exchange_Collections.py is used to grab the IOCs from IBM X-Force Exchange Collections.
 You don't need IBM X-Force API and the script will auto skip the login screen.
 
